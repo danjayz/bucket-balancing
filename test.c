@@ -10,6 +10,10 @@ int sum(int n) {
 }
 
 int main() {
+    printf(1000*45);
+
+
+
     printf("%d\n", sum(50));
 
     printf("Hello world")
