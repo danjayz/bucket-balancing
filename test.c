@@ -5,7 +5,7 @@ int sum(int n) {
     if (n == 1) {
         return n;
     } else {
-        return s=n+sum(n-1);
+        return s=n+sum(n+1);
     }
 }
 
